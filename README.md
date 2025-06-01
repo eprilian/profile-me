@@ -30,9 +30,7 @@
   </p>
 </p>
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/f3c7cf9d-e48f-479d-9b6a-956ad358f456)" alt="Themes">
-</p>
+![image](https://github.com/user-attachments/assets/7823241a-e182-44dd-864a-9924be9f2cc2)
 
 **profile-me** is a powerful portfolio builder that allows you to create a stunning and personalized portfolio site in minutes, even if you have no coding experience. Simply provide your GitHub username, and profile-me will automatically generate a portfolio. Best of all, you can easily deploy your portfolio to GitHub Pages with just a few clicks, making it accessible to the world in no time.
 
