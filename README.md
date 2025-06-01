@@ -31,11 +31,7 @@
 </p>
 
 <p align="center">
-  <a href="https://eprilian.github.io/profile-me">
-    <img src="https://github.com/eprilian/profile-me/assets/45073703/eb6c38a4-ac92-4006-869b-e4e24f6f5cf6" alt="Preview" width="60%"/>
-  </a>
-  <br/>
-  <a href="#eprilian"><img src="https://github.com/eprilian/profile-me/assets/45073703/4d2ccd45-e566-4743-bf61-cadc03ece54c" width="50%" alt="Shadow"/></a>
+  <img src="![image](https://github.com/user-attachments/assets/f3c7cf9d-e48f-479d-9b6a-956ad358f456)" alt="Themes">
 </p>
 
 **profile-me** is a powerful portfolio builder that allows you to create a stunning and personalized portfolio site in minutes, even if you have no coding experience. Simply provide your GitHub username, and profile-me will automatically generate a portfolio. Best of all, you can easily deploy your portfolio to GitHub Pages with just a few clicks, making it accessible to the world in no time.
@@ -59,10 +55,6 @@
 ✓ [Blog Posts Section](#blog-posts)
 
 To view a live example, **[click here](https://eprilian.github.io/profile-me)**.
-
-<p align="center">
-  <img src="https://github.com/eprilian/profile-me/assets/45073703/406e8368-415a-42ef-89c5-d43cc8bbeb19" alt="Themes">
-</p>
 
 ## 🛠 Installation & Setup
 
