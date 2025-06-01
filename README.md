@@ -71,7 +71,7 @@ These instructions will get you a copy of the project and deploy your portfolio 
   - If you want to host your portfolio at `https://<USERNAME>.github.io/<REPO_NAME>` (e.g. `https://<USERNAME>.github.io/portfolio`), rename your forked repository to `<REPO_NAME>` (e.g. `portfolio`) in GitHub.
 - **Enable workflows:** Go to your repo's **Actions** tab and enable workflows.
 
-  ![Workflows](https://github.com/eprilian/profile-me/assets/45073703/7e82f7d4-900c-4cb9-83f9-bcaa1ca2b910)
+  ![image](https://github.com/user-attachments/assets/6da0c8ea-973e-4a16-97b4-508867d84e39)
 
 - **Base Value:** Open `profile-me.config.ts`, and change `base`'s value.
 
