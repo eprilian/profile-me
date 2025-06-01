@@ -10,7 +10,7 @@ const CONFIG = {
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
   /** base: '/gitprofile/', */
-  base: '/',
+  base: '/profile-me/',
   projects: {
     github: {
       display: true, // Display GitHub projects?
